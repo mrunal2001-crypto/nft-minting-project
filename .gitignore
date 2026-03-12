@@ -1,0 +1,17 @@
+node_modules/
+
+# Environment variables - NEVER commit this
+.env
+
+# Hardhat compiled files
+artifacts/
+cache/
+typechain-types/
+
+# Coverage
+coverage/
+coverage.json
+
+# OS files
+.DS_Store
+Thumbs.db
